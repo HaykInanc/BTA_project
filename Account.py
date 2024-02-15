@@ -20,7 +20,7 @@ class Account:
         pass
         # TODO:
         # implement the deposit process with all necessary checks
-        # amount must be a number greater than 0
+        # amount must be a integer greater than 0
         
         # in case of a positive outcome, use this construct to write it to a JSON file
 
@@ -36,7 +36,7 @@ class Account:
         pass
         # TODO:
         # implement account debits with all necessary checks
-        # amount must be a number greater than 0
+        # amount must be a integer greater than 0
         # if amount is greater than the amount in the account (insufficient funds) the operation should not work
 
         # in case of positive outcome use this construct to write to JSON file

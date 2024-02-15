@@ -17,7 +17,7 @@ class CurrencyExchange:
 
     def get_exchange_rates(self):
         pass
-        # Implement a process that sends a get request to a <link> link 
+        # Implement a process that sends a get request to the link 
         # and returns the resulting dictionary.
     
     def exchange_currency(self, currency_from, currency_to, amount):
